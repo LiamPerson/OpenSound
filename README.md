@@ -16,4 +16,6 @@ Windows 10 has some problems with my .exe so I recommend the .bat file.
 
 <hr>
 
+Batch file (.bat) cannot be added to taskbar whilst .exe can so its worth downloading the exe if you want easy access!
+
 Enjoy!

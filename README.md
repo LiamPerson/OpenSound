@@ -10,7 +10,7 @@ Windows 10 has some problems with my .exe so I recommend the .bat file.
 
 <strong>Download:</strong>
 
-<a target="_blank" href="https://github.com/YeloPartyHat/OpenSound/raw/master/OpenSound.bat" download> OpenSound.bat </a>
+<a href="https://github.com/YeloPartyHat/OpenSound/raw/master/OpenSound.bat" download> OpenSound.bat </a> <- Right click 'Save Link As'
 
 <a href="https://github.com/YeloPartyHat/OpenSound/raw/master/OpenSound.exe" download> OpenSound.exe </a>
 
